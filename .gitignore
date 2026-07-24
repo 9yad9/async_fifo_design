@@ -1,0 +1,14 @@
+# Vivado/Xilinx specific ignore  
+*.jou  
+*.log  
+*.pb  
+*.wdb  
+*.wcfg  
+*.vcd  
+*.str  
+.Xil/  
+xsim.dir/  
+  
+# OS generated files  
+.DS_Store  
+Thumbs.db 
